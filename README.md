@@ -5,11 +5,14 @@ Sistema de Gestão de Campeonados de Xadrez - O projeto Seridó Chess é um soft
 
 ## Modelagem
 
+### Versão 1
 ![Old Global](Imgs/old.png "Versão 1")
 
+### Usuário Versão 2
 ![User](Imgs/user.png "Usuário Versão 2")
 
+### Participação Versão 2
 ![Participação](Imgs/participacao.png "Participação Versão 2")
 
+### Torneio Versão 1
 ![Torneio](Imgs/torneio.png "Torneio Versão 1")
-
